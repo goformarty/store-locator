@@ -1,5 +1,5 @@
 # Favourite stores & cafes 
-Website with locations of my favourite stores and cafes in UK. 
+Google Maps website with locations of my favourite stores and cafes in UK. 
 Please see live demo here: https://goformarty.github.io/store-locator//
 
 ## Goal
